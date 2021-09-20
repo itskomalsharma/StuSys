@@ -1,0 +1,5 @@
+Make sure your internet is not off,
+internet must be on.
+because there is some online cdn servies link to this script.
+
+Thank You

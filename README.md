@@ -21,3 +21,5 @@ This is a Student Management System and it's developed in php. It is Web based A
 
 #  Screenshort
 <img src="https://github.com/itskomalsharma/StuSys/blob/main/001.jpg">
+<img src="https://github.com/itskomalsharma/StuSys/blob/main/012.jpg">
+<img src="https://github.com/itskomalsharma/StuSys/blob/main/002.jpg">

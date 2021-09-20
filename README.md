@@ -17,3 +17,7 @@ This is a Student Management System and it's developed in php. It is Web based A
 - PHP 7.X
 - MYSQL 5.X
 - MYSQL 7.X
+
+
+#  Screenshort
+<img src="file:///C:/Users/Komal/Desktop/stusys%20ss/001.jpg">

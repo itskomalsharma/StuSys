@@ -20,4 +20,4 @@ This is a Student Management System and it's developed in php. It is Web based A
 
 
 #  Screenshort
-<img src="file:///C:/Users/Komal/Desktop/stusys%20ss/001.jpg">
+<img src="https://github.com/itskomalsharma/StuSys/blob/main/001.jpg">
